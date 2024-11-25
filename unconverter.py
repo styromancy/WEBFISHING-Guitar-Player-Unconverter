@@ -1,6 +1,5 @@
 from tkinter.filedialog import askopenfilenames
 from tkinter import Tk
-from time import sleep
 import os
 
 Tk().withdraw()
